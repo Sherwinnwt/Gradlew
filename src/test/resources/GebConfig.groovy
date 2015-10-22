@@ -35,4 +35,4 @@ environments {
 
 // To run the tests with all browsers just run “./gradlew test”
 
-baseUrl = "http://localhost:8081"
+baseUrl = "http://192.168.4.225"
